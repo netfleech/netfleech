@@ -1,0 +1,16 @@
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="4.374cm" height="1.976cm">
+<defs>
+<filter id="Filter_0">
+    <feFlood flood-color="rgb(255, 40, 40)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+
+</defs>
+<g filter="url(#Filter_0)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 0.74743024627012, 0, -8.38167916531992e-16, 0.74743024627012,0.52685196526784, 56.0286342351294)" font-size="106.529px"><tspan font-size="106.529px" font-family="Bebas" fill="#FFFFFF">Netf</tspan></text>
+</g>
+</svg>
